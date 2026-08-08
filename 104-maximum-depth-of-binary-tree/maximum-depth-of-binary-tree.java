@@ -16,11 +16,11 @@
 class Solution {
 
     public int maxDepth(TreeNode root) {
-        int max_depth = 0;
+        int max_depth = -1;
         if(root == null) return 0;
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
-
+        max_depth++;
         while(queue.size() > 0){
             int size = queue.size();
             max_depth++;
