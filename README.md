@@ -18,6 +18,3 @@ Solutions for [TakeUForward (TUF+)](https://takeuforward.org/plus?affiliate=aror
 
 ---
 
-<p align="center">
-  Crafted with ❤️ for Problem Solvers by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
-</p>
