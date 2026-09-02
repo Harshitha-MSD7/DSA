@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **4** | 4 | 0 | 0 | `2026-09-01` |
+| **5** | 5 | 0 | 0 | `2026-09-02` |
 
 ---
 
@@ -17,7 +17,8 @@
 | 0001 | [Check if the Array is Sorted II](./DSA/Beginner-Problems/check-if-the-array-is-sorted-ii) | [JAVA](./DSA/Beginner-Problems/check-if-the-array-is-sorted-ii/solution.java) | 🟢 Easy | `DSA` / `Beginner-Problems` |
 | 0002 | [Largest Element](./DSA/Arrays/largest-element) | [JAVA](./DSA/Arrays/largest-element/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
 | 0003 | [Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [JAVA](./DSA/Arrays/left-rotate-array-by-one/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0004 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [JAVA](./DSA/Arrays/second-largest-element/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0004 | [Linear Search](./DSA/Arrays/linear-search) | [JAVA](./DSA/Arrays/linear-search/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0005 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [JAVA](./DSA/Arrays/second-largest-element/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
 
 ---
 
