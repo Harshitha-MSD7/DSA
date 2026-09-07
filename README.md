@@ -33,14 +33,28 @@
 ## Array
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Harshitha-MSD7/DSA/tree/master/0410-split-array-largest-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshitha-MSD7/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Harshitha-MSD7/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Harshitha-MSD7/DSA/tree/master/0410-split-array-largest-sum) |
 | [3904-smallest-stable-index-ii](https://github.com/Harshitha-MSD7/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshitha-MSD7/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+## Binary Search
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Harshitha-MSD7/DSA/tree/master/0410-split-array-largest-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Harshitha-MSD7/DSA/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Harshitha-MSD7/DSA/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
