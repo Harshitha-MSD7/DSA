@@ -36,6 +36,7 @@
 | [0410-split-array-largest-sum](https://github.com/Harshitha-MSD7/DSA/tree/master/0410-split-array-largest-sum) |
 | [0860-lemonade-change](https://github.com/Harshitha-MSD7/DSA/tree/master/0860-lemonade-change) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Harshitha-MSD7/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Harshitha-MSD7/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshitha-MSD7/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Harshitha-MSD7/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -62,4 +63,8 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Harshitha-MSD7/DSA/tree/master/0410-split-array-largest-sum) |
 | [0860-lemonade-change](https://github.com/Harshitha-MSD7/DSA/tree/master/0860-lemonade-change) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/Harshitha-MSD7/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
