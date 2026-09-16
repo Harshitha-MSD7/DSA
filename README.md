@@ -67,4 +67,12 @@
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/Harshitha-MSD7/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Harshitha-MSD7/DSA/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Harshitha-MSD7/DSA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
