@@ -35,6 +35,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Harshitha-MSD7/DSA/tree/master/0410-split-array-largest-sum) |
 | [0860-lemonade-change](https://github.com/Harshitha-MSD7/DSA/tree/master/0860-lemonade-change) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Harshitha-MSD7/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshitha-MSD7/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Harshitha-MSD7/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -45,6 +46,7 @@
 ## Math
 |  |
 | ------- |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Harshitha-MSD7/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3870-count-commas-in-range](https://github.com/Harshitha-MSD7/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshitha-MSD7/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
