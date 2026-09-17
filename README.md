@@ -33,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Harshitha-MSD7/DSA/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Harshitha-MSD7/DSA/tree/master/0410-split-array-largest-sum) |
 | [0860-lemonade-change](https://github.com/Harshitha-MSD7/DSA/tree/master/0860-lemonade-change) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Harshitha-MSD7/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -57,6 +58,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Harshitha-MSD7/DSA/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Harshitha-MSD7/DSA/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Harshitha-MSD7/DSA/tree/master/0061-rotate-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Harshitha-MSD7/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
