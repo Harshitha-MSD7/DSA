@@ -90,10 +90,12 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0098-validate-binary-search-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harshitha-MSD7/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0098-validate-binary-search-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harshitha-MSD7/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -102,8 +104,17 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0098-validate-binary-search-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harshitha-MSD7/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Harshitha-MSD7/DSA/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harshitha-MSD7/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Harshitha-MSD7/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 <!---LeetCode Topics End-->
