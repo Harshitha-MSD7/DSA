@@ -49,4 +49,16 @@
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Harshitha-MSD7/DSA/tree/master/0535-encode-and-decode-tinyurl) |
+## Array
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Harshitha-MSD7/DSA/tree/master/0994-rotting-oranges) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Harshitha-MSD7/DSA/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Harshitha-MSD7/DSA/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
