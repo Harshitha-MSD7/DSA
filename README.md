@@ -89,4 +89,12 @@
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/Harshitha-MSD7/DSA/tree/master/1046-last-stone-weight) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Harshitha-MSD7/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Harshitha-MSD7/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
