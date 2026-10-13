@@ -14,16 +14,16 @@ Each node has a weight, return the sum of all the weights in the connected graph
 class Solution {
     // Return the total importance value of this employee and all their direct and indirect subordinates
     public int getImportance(List<Employee> employees, int id) {
+
         HashMap<Integer, Employee> map = new HashMap<>();
+
         for(Employee employee : employees){
             map.put(employee.id, employee);
         }
-
-        Deque<Integer> q = new ArrayDeque<>();
-        q.offer(id);
         
-        int sum = 0;
+        return dfs(map, id);
 
+        /*
         while(!q.isEmpty()){
             int emp = q.poll();
             sum += map.get(emp).importance;
@@ -31,7 +31,20 @@ class Solution {
                 q.offer(empId);
             }
         }
-        return sum;     
+        */
+
+           
+    }
+
+    private int dfs(HashMap<Integer, Employee> map, int id){
+        
+        int sum = map.get(id).importance;
+
+        for(int emp : map.get(id).subordinates){
+            sum += dfs(map, emp);      
+        }
+
+        return sum;
     }
     
 }
