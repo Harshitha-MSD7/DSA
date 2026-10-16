@@ -9,11 +9,11 @@ class Solution {
     public int countStudents(int[] students, int[] sandwiches) {
         Deque<Integer> q = new ArrayDeque<>();
         Stack<Integer> stack = new Stack<>();
+        int len = students.length;
+
         for(int i = 0; i<students.length; i++){
             q.offer(students[i]);
-        }
-        for(int i = sandwiches.length-1; i>=0; i--){
-            stack.push(sandwiches[i]);
+            stack.push(sandwiches[len-i-1]);
         }
 
         int count = 0;
