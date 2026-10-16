@@ -68,6 +68,7 @@
 | [0690-employee-importance](https://github.com/Harshitha-MSD7/DSA/tree/master/0690-employee-importance) |
 | [0994-rotting-oranges](https://github.com/Harshitha-MSD7/DSA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Harshitha-MSD7/DSA/tree/master/1046-last-stone-weight) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harshitha-MSD7/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3484-design-spreadsheet](https://github.com/Harshitha-MSD7/DSA/tree/master/3484-design-spreadsheet) |
 ## Breadth-First Search
 |  |
@@ -156,8 +157,14 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Harshitha-MSD7/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harshitha-MSD7/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Harshitha-MSD7/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harshitha-MSD7/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harshitha-MSD7/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
