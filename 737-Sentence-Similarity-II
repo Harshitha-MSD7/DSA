@@ -1,0 +1,70 @@
+/*
+Leetcode Premium Problem: 737. Sentence Similarity II
+BFS Solution
+
+
+
+
+*/
+public class Solution {
+
+    public static boolean areSentencesSimilarTwo(String[] sentence1, String[] sentence2, List<List<String>> similarPairs) {
+
+        if(sentence1.length != sentence2.length) return false;
+
+        Map<String, List<String>> adj = new HashMap<>();
+
+        // Creating the adjacency List -> bidirectional graph 
+        for(List<String> edge : similarPairs){
+            // edge -> araylist of size 2
+            String u = edge.get(0);
+            String v = edge.get(1);
+
+            if(! adj.containsKey(u)){
+                adj.put(u, new ArrayList<>());
+            }
+
+            if(! adj.containsKey(v)){
+                adj.put(v, new ArrayList<>());
+            }
+
+            adj.get(u).add(v);
+            adj.get(v).add(u);
+
+        }
+
+
+        for(int i = 0; i<sentence1.length; i++){
+            if(! sentence1[i].equals(sentence2[i])){
+                if(! bfs(adj, sentence1[i], sentence2[i])) return false;
+            }
+        }   
+
+        return true; 
+    }
+
+    public static boolean bfs(Map<String, List<String>> adj, String source, String destination) {
+
+        if (!adj.containsKey(source) || !adj.containsKey(destination)) {
+            return false;
+        }
+        
+       HashSet<String> visited = new HashSet<>();
+       if (source.equals(destination)) return true;
+       Deque<String> q = new ArrayDeque<>();
+       q.add(source);
+       visited.add(source); 
+       while(!q.isEmpty()){
+            String node = q.poll();
+            for(String neighbour : adj.get(node)){
+                if(neighbour.equals(destination)) return true;
+                if(! visited.contains(neighbour)){
+                    visited.add(neighbour);
+                    q.add(neighbour);
+                }
+            }
+       } 
+
+        return false; 
+    }
+}
