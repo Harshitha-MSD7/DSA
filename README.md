@@ -49,6 +49,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/Harshitha-MSD7/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [1446-consecutive-characters](https://github.com/Harshitha-MSD7/DSA/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshitha-MSD7/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/Harshitha-MSD7/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [3484-design-spreadsheet](https://github.com/Harshitha-MSD7/DSA/tree/master/3484-design-spreadsheet) |
 ## Design
 |  |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshitha-MSD7/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/Harshitha-MSD7/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
