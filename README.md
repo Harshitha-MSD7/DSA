@@ -65,6 +65,7 @@
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Harshitha-MSD7/DSA/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshitha-MSD7/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harshitha-MSD7/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Harshitha-MSD7/DSA/tree/master/0399-evaluate-division) |
@@ -193,4 +194,12 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harshitha-MSD7/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Harshitha-MSD7/DSA/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Harshitha-MSD7/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
