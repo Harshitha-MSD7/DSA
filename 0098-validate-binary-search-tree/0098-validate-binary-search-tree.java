@@ -1,17 +1,36 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        return validate(root, null, null);
+        // Base
+        if(root.left == null && root.right == null) return true;
+
+        return dfs(root, Long.MIN_VALUE,Long.MAX_VALUE);
     }
     
-    private boolean validate(TreeNode node, Integer low, Integer high) {
-        if (node == null) return true;
-        
-        // Current node's value must be between low and high
-        if ((low != null && node.val <= low) || (high != null && node.val >= high)) {
-            return false;
+    private boolean dfs(TreeNode parent, long min, long max){
+
+        if(parent == null) return true;
+
+        if(min < parent.val && parent.val < max){
+            // true
+            return dfs(parent.left, min, parent.val) && dfs(parent.right, parent.val, max);
         }
         
-        // Validate left subtree (upper bound becomes node.val) and right subtree (lower bound becomes node.val)
-        return validate(node.left, low, node.val) && validate(node.right, node.val, high);
+        return false;
+        
     }
 }
