@@ -75,6 +75,7 @@
 | [0994-rotting-oranges](https://github.com/Harshitha-MSD7/DSA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Harshitha-MSD7/DSA/tree/master/1046-last-stone-weight) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harshitha-MSD7/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2050-parallel-courses-iii](https://github.com/Harshitha-MSD7/DSA/tree/master/2050-parallel-courses-iii) |
 | [3484-design-spreadsheet](https://github.com/Harshitha-MSD7/DSA/tree/master/3484-design-spreadsheet) |
 ## Breadth-First Search
 |  |
@@ -103,6 +104,7 @@
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Harshitha-MSD7/DSA/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Harshitha-MSD7/DSA/tree/master/0542-01-matrix) |
+| [2050-parallel-courses-iii](https://github.com/Harshitha-MSD7/DSA/tree/master/2050-parallel-courses-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Harshitha-MSD7/DSA/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Harshitha-MSD7/DSA/tree/master/0399-evaluate-division) |
+| [2050-parallel-courses-iii](https://github.com/Harshitha-MSD7/DSA/tree/master/2050-parallel-courses-iii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -182,6 +185,7 @@
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Harshitha-MSD7/DSA/tree/master/0310-minimum-height-trees) |
+| [2050-parallel-courses-iii](https://github.com/Harshitha-MSD7/DSA/tree/master/2050-parallel-courses-iii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -202,4 +206,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Harshitha-MSD7/DSA/tree/master/0056-merge-intervals) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [2050-parallel-courses-iii](https://github.com/Harshitha-MSD7/DSA/tree/master/2050-parallel-courses-iii) |
 <!---LeetCode Topics End-->
