@@ -6,45 +6,39 @@ class Employee {
     public List<Integer> subordinates;
 };
 */
-
-/*
-Each node has a weight, return the sum of all the weights in the connected graph containg the id
-*/
-// a single source traversal with tracking sum 
 class Solution {
-    // Return the total importance value of this employee and all their direct and indirect subordinates
+
+    // Return the sum of importance of all the employees in the id conneced graph
+
     public int getImportance(List<Employee> employees, int id) {
+        // HashMap -> { ID (int) : Employee object}
+        HashMap<Integer, Employee> map = new HashMap<>(); 
 
-        HashMap<Integer, Employee> map = new HashMap<>();
-
-        for(Employee employee : employees){
-            map.put(employee.id, employee);
+        for(Employee emp : employees){
+            map.put(emp.id, emp);
         }
-        
-        return dfs(map, id);
 
-        /*
-        while(!q.isEmpty()){
-            int emp = q.poll();
-            sum += map.get(emp).importance;
-            for(int empId : map.get(emp).subordinates){
-                q.offer(empId);
-            }
-        }
-        */
-
+        return bfs(map, id);
            
     }
 
-    private int dfs(HashMap<Integer, Employee> map, int id){
-        
+    private int bfs(HashMap<Integer, Employee> map, int id){
+
         int sum = map.get(id).importance;
 
-        for(int emp : map.get(id).subordinates){
-            sum += dfs(map, emp);      
+        Queue<Integer> q = new LinkedList<>();
+        q.add(id);
+
+        while(!q.isEmpty()){
+            int emp = q.poll();
+
+            for(int nei : map.get(emp).subordinates){
+                sum += map.get(nei).importance;
+                q.add(nei);
+            }
         }
 
-        return sum;
+        return sum;        
     }
     
 }
