@@ -141,6 +141,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0226-invert-binary-tree) |
 | [0690-employee-importance](https://github.com/Harshitha-MSD7/DSA/tree/master/0690-employee-importance) |
 ## Depth-First Search
@@ -148,6 +149,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Harshitha-MSD7/DSA/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Harshitha-MSD7/DSA/tree/master/0399-evaluate-division) |
@@ -223,6 +225,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
