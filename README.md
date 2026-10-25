@@ -71,6 +71,7 @@
 | [0399-evaluate-division](https://github.com/Harshitha-MSD7/DSA/tree/master/0399-evaluate-division) |
 | [0526-beautiful-arrangement](https://github.com/Harshitha-MSD7/DSA/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Harshitha-MSD7/DSA/tree/master/0542-01-matrix) |
+| [0636-exclusive-time-of-functions](https://github.com/Harshitha-MSD7/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0690-employee-importance](https://github.com/Harshitha-MSD7/DSA/tree/master/0690-employee-importance) |
 | [0994-rotting-oranges](https://github.com/Harshitha-MSD7/DSA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Harshitha-MSD7/DSA/tree/master/1046-last-stone-weight) |
@@ -180,6 +181,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Harshitha-MSD7/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0636-exclusive-time-of-functions](https://github.com/Harshitha-MSD7/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshitha-MSD7/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harshitha-MSD7/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
