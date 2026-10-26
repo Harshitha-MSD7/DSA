@@ -15,7 +15,7 @@ class Solution {
             }
             else{
                 extraClosing++;
-                max = Math.max(max, extraClosing);
+                if(extraClosing > 0) max = Math.max(max, extraClosing);
             }
         }
 
