@@ -50,6 +50,7 @@
 | [1446-consecutive-characters](https://github.com/Harshitha-MSD7/DSA/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshitha-MSD7/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Harshitha-MSD7/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshitha-MSD7/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3484-design-spreadsheet](https://github.com/Harshitha-MSD7/DSA/tree/master/3484-design-spreadsheet) |
 ## Design
 |  |
@@ -103,6 +104,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshitha-MSD7/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1861-rotating-the-box](https://github.com/Harshitha-MSD7/DSA/tree/master/1861-rotating-the-box) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshitha-MSD7/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/Harshitha-MSD7/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshitha-MSD7/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harshitha-MSD7/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshitha-MSD7/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Queue
 |  |
 | ------- |
@@ -208,6 +211,7 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshitha-MSD7/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshitha-MSD7/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Math
 |  |
 | ------- |
@@ -239,4 +243,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0098-validate-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshitha-MSD7/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
