@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshitha-MSD7/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0071-simplify-path](https://github.com/Harshitha-MSD7/DSA/tree/master/0071-simplify-path) |
 | [0399-evaluate-division](https://github.com/Harshitha-MSD7/DSA/tree/master/0399-evaluate-division) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Harshitha-MSD7/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [1446-consecutive-characters](https://github.com/Harshitha-MSD7/DSA/tree/master/1446-consecutive-characters) |
@@ -188,6 +189,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Harshitha-MSD7/DSA/tree/master/0071-simplify-path) |
 | [0232-implement-queue-using-stacks](https://github.com/Harshitha-MSD7/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0636-exclusive-time-of-functions](https://github.com/Harshitha-MSD7/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshitha-MSD7/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
