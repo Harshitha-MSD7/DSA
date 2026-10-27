@@ -47,6 +47,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshitha-MSD7/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0071-simplify-path](https://github.com/Harshitha-MSD7/DSA/tree/master/0071-simplify-path) |
 | [0399-evaluate-division](https://github.com/Harshitha-MSD7/DSA/tree/master/0399-evaluate-division) |
+| [0412-fizz-buzz](https://github.com/Harshitha-MSD7/DSA/tree/master/0412-fizz-buzz) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Harshitha-MSD7/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [1446-consecutive-characters](https://github.com/Harshitha-MSD7/DSA/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshitha-MSD7/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -207,6 +208,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Harshitha-MSD7/DSA/tree/master/0412-fizz-buzz) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harshitha-MSD7/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Topological Sort
 |  |
@@ -222,6 +224,7 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harshitha-MSD7/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0412-fizz-buzz](https://github.com/Harshitha-MSD7/DSA/tree/master/0412-fizz-buzz) |
 ## Randomized
 |  |
 | ------- |
