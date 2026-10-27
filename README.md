@@ -154,6 +154,7 @@
 | [0110-balanced-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0690-employee-importance](https://github.com/Harshitha-MSD7/DSA/tree/master/0690-employee-importance) |
 ## Depth-First Search
 |  |
@@ -165,6 +166,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0310-minimum-height-trees](https://github.com/Harshitha-MSD7/DSA/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Harshitha-MSD7/DSA/tree/master/0399-evaluate-division) |
+| [0543-diameter-of-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0690-employee-importance](https://github.com/Harshitha-MSD7/DSA/tree/master/0690-employee-importance) |
 ## Union-Find
 |  |
@@ -244,6 +246,7 @@
 | [0110-balanced-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -261,4 +264,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
