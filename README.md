@@ -153,6 +153,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0690-employee-importance](https://github.com/Harshitha-MSD7/DSA/tree/master/0690-employee-importance) |
 ## Depth-First Search
 |  |
@@ -161,6 +162,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0310-minimum-height-trees](https://github.com/Harshitha-MSD7/DSA/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Harshitha-MSD7/DSA/tree/master/0399-evaluate-division) |
 | [0690-employee-importance](https://github.com/Harshitha-MSD7/DSA/tree/master/0690-employee-importance) |
@@ -241,12 +243,22 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshitha-MSD7/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
