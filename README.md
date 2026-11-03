@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Harshitha-MSD7/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Harshitha-MSD7/DSA/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Harshitha-MSD7/DSA/tree/master/0399-evaluate-division) |
@@ -154,6 +155,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Harshitha-MSD7/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -165,6 +167,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Harshitha-MSD7/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0310-minimum-height-trees](https://github.com/Harshitha-MSD7/DSA/tree/master/0310-minimum-height-trees) |
@@ -251,6 +254,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Harshitha-MSD7/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0543-diameter-of-binary-tree) |
