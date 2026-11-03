@@ -150,6 +150,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harshitha-MSD7/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0110-balanced-binary-tree) |
@@ -160,6 +161,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harshitha-MSD7/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0110-balanced-binary-tree) |
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Harshitha-MSD7/DSA/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harshitha-MSD7/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Harshitha-MSD7/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0636-exclusive-time-of-functions](https://github.com/Harshitha-MSD7/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshitha-MSD7/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -244,6 +247,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harshitha-MSD7/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0110-balanced-binary-tree) |
