@@ -1,0 +1,52 @@
+public class Solution {
+    /**
+     * @param maze: the maze
+     * @param start: the start
+     * @param destination: the destination
+     * @return: whether the ball could stop at the destination
+     */
+    private final int[][] directions = {{0,1}, {1,0}, {-1,0}, {0,-1}};
+
+    public boolean hasPath(int[][] maze, int[] start, int[] destination) {
+        // write your code here
+        int row = maze.length;
+        int col = maze[0].length;
+        boolean[][] visited = new boolean[row][col];
+
+        return bfs(maze, visited, start, destination);
+
+    }
+    private boolean bfs(int[][] maze, boolean[][] visited, int[] start, int[] destination){
+        // [row, col]
+        Queue<int[]> q = new LinkedList<>();
+        q.offer(start);
+        visited[start[0]][start[1]] = true;
+
+        while(!q.isEmpty()){
+            int[] cur = q.poll();
+            if (cur[0] == destination[0] && cur[1] == destination[1]) {
+                return true;
+            }
+            for(int[] dir : directions){
+                int r = cur[0];
+                int c = cur[1];
+
+                while(r + dir[0] >= 0 && r + dir[0] < maze.length && c + dir[1] >= 0 && c + dir[1] < maze[0].length && maze[r + dir[0]][c + dir[1]] == 0){
+                    // you keep going in the same direction until a problem
+                    r += dir[0];
+                    c += dir[1];
+                }  
+
+                if(!visited[r][c]){
+                    visited[r][c] = true;
+                    q.offer(new int[]{r, c});
+                }
+            }  
+
+
+        }
+
+        return false;
+
+    }
+}
