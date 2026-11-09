@@ -77,6 +77,7 @@
 | [0542-01-matrix](https://github.com/Harshitha-MSD7/DSA/tree/master/0542-01-matrix) |
 | [0636-exclusive-time-of-functions](https://github.com/Harshitha-MSD7/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0690-employee-importance](https://github.com/Harshitha-MSD7/DSA/tree/master/0690-employee-importance) |
+| [0778-swim-in-rising-water](https://github.com/Harshitha-MSD7/DSA/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Harshitha-MSD7/DSA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Harshitha-MSD7/DSA/tree/master/1046-last-stone-weight) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harshitha-MSD7/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -93,12 +94,14 @@
 | [0399-evaluate-division](https://github.com/Harshitha-MSD7/DSA/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/Harshitha-MSD7/DSA/tree/master/0542-01-matrix) |
 | [0690-employee-importance](https://github.com/Harshitha-MSD7/DSA/tree/master/0690-employee-importance) |
+| [0778-swim-in-rising-water](https://github.com/Harshitha-MSD7/DSA/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Harshitha-MSD7/DSA/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Harshitha-MSD7/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0542-01-matrix](https://github.com/Harshitha-MSD7/DSA/tree/master/0542-01-matrix) |
+| [0778-swim-in-rising-water](https://github.com/Harshitha-MSD7/DSA/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Harshitha-MSD7/DSA/tree/master/0994-rotting-oranges) |
 | [1861-rotating-the-box](https://github.com/Harshitha-MSD7/DSA/tree/master/1861-rotating-the-box) |
 | [3484-design-spreadsheet](https://github.com/Harshitha-MSD7/DSA/tree/master/3484-design-spreadsheet) |
@@ -113,6 +116,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Harshitha-MSD7/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshitha-MSD7/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0778-swim-in-rising-water](https://github.com/Harshitha-MSD7/DSA/tree/master/0778-swim-in-rising-water) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +131,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Harshitha-MSD7/DSA/tree/master/0778-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/Harshitha-MSD7/DSA/tree/master/1046-last-stone-weight) |
 ## Linked List
 |  |
@@ -174,10 +179,12 @@
 | [0399-evaluate-division](https://github.com/Harshitha-MSD7/DSA/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0690-employee-importance](https://github.com/Harshitha-MSD7/DSA/tree/master/0690-employee-importance) |
+| [0778-swim-in-rising-water](https://github.com/Harshitha-MSD7/DSA/tree/master/0778-swim-in-rising-water) |
 ## Union-Find
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Harshitha-MSD7/DSA/tree/master/0399-evaluate-division) |
+| [0778-swim-in-rising-water](https://github.com/Harshitha-MSD7/DSA/tree/master/0778-swim-in-rising-water) |
 ## Graph Theory
 |  |
 | ------- |
@@ -279,4 +286,12 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Harshitha-MSD7/DSA/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Harshitha-MSD7/DSA/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
