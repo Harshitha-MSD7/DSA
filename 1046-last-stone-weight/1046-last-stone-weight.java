@@ -5,28 +5,26 @@ class Solution {
     
     */
     public int lastStoneWeight(int[] stones) {
-        if(stones.length == 0) return 0;
-        if(stones.length == 1) return stones[0];
+        PriorityQueue<Integer> q = new PriorityQueue<>(Comparator.reverseOrder());
+        for(int stone : stones){
+            q.offer(stone);
+        }
 
-        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
-        for(int i : stones){
-            pq.offer(i);
-        }
-        // pq can have even number of elements and also odd number of elements
-        while(pq.size() > 1){
-            int y = pq.poll();
-            int x = pq.poll();
+        while(q.size() >= 2){
+            int y = q.poll();
+            int x = q.poll();
 
-            if(x != y){
-                y = y-x;
-                pq.offer(y);
-            }
+            if(x == y) continue;
+
+            q.offer(y-x);
+
         }
-        
-        if(pq.size() == 0){
-            return 0;
+
+        if(q.size() == 1){
+            return q.poll();
         }
-        return pq.poll();
+
+        return 0;
 
     }
 }
