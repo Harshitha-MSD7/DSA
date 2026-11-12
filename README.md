@@ -84,6 +84,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harshitha-MSD7/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1861-rotating-the-box](https://github.com/Harshitha-MSD7/DSA/tree/master/1861-rotating-the-box) |
 | [2050-parallel-courses-iii](https://github.com/Harshitha-MSD7/DSA/tree/master/2050-parallel-courses-iii) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Harshitha-MSD7/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3484-design-spreadsheet](https://github.com/Harshitha-MSD7/DSA/tree/master/3484-design-spreadsheet) |
 ## Breadth-First Search
 |  |
