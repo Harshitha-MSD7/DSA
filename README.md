@@ -122,6 +122,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Harshitha-MSD7/DSA/tree/master/0070-climbing-stairs) |
 | [0526-beautiful-arrangement](https://github.com/Harshitha-MSD7/DSA/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Harshitha-MSD7/DSA/tree/master/0542-01-matrix) |
 | [2050-parallel-courses-iii](https://github.com/Harshitha-MSD7/DSA/tree/master/2050-parallel-courses-iii) |
@@ -240,6 +241,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Harshitha-MSD7/DSA/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harshitha-MSD7/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/Harshitha-MSD7/DSA/tree/master/0412-fizz-buzz) |
 ## Randomized
@@ -304,4 +306,8 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Harshitha-MSD7/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Harshitha-MSD7/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
