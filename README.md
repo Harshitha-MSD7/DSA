@@ -83,6 +83,7 @@
 | [0778-swim-in-rising-water](https://github.com/Harshitha-MSD7/DSA/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Harshitha-MSD7/DSA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Harshitha-MSD7/DSA/tree/master/1046-last-stone-weight) |
+| [1254-number-of-closed-islands](https://github.com/Harshitha-MSD7/DSA/tree/master/1254-number-of-closed-islands) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harshitha-MSD7/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1861-rotating-the-box](https://github.com/Harshitha-MSD7/DSA/tree/master/1861-rotating-the-box) |
 | [2050-parallel-courses-iii](https://github.com/Harshitha-MSD7/DSA/tree/master/2050-parallel-courses-iii) |
@@ -100,6 +101,7 @@
 | [0690-employee-importance](https://github.com/Harshitha-MSD7/DSA/tree/master/0690-employee-importance) |
 | [0778-swim-in-rising-water](https://github.com/Harshitha-MSD7/DSA/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Harshitha-MSD7/DSA/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Harshitha-MSD7/DSA/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 | [0542-01-matrix](https://github.com/Harshitha-MSD7/DSA/tree/master/0542-01-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Harshitha-MSD7/DSA/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Harshitha-MSD7/DSA/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Harshitha-MSD7/DSA/tree/master/1254-number-of-closed-islands) |
 | [1861-rotating-the-box](https://github.com/Harshitha-MSD7/DSA/tree/master/1861-rotating-the-box) |
 | [3484-design-spreadsheet](https://github.com/Harshitha-MSD7/DSA/tree/master/3484-design-spreadsheet) |
 ## Two Pointers
@@ -189,11 +192,13 @@
 | [0543-diameter-of-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0690-employee-importance](https://github.com/Harshitha-MSD7/DSA/tree/master/0690-employee-importance) |
 | [0778-swim-in-rising-water](https://github.com/Harshitha-MSD7/DSA/tree/master/0778-swim-in-rising-water) |
+| [1254-number-of-closed-islands](https://github.com/Harshitha-MSD7/DSA/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Harshitha-MSD7/DSA/tree/master/0399-evaluate-division) |
 | [0778-swim-in-rising-water](https://github.com/Harshitha-MSD7/DSA/tree/master/0778-swim-in-rising-water) |
+| [1254-number-of-closed-islands](https://github.com/Harshitha-MSD7/DSA/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
