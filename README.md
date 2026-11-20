@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Harshitha-MSD7/DSA/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Harshitha-MSD7/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Harshitha-MSD7/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Harshitha-MSD7/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Harshitha-MSD7/DSA/tree/master/0120-triangle) |
@@ -106,6 +107,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Harshitha-MSD7/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Harshitha-MSD7/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0542-01-matrix](https://github.com/Harshitha-MSD7/DSA/tree/master/0542-01-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Harshitha-MSD7/DSA/tree/master/0778-swim-in-rising-water) |
@@ -128,6 +130,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Harshitha-MSD7/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Harshitha-MSD7/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Harshitha-MSD7/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Harshitha-MSD7/DSA/tree/master/0120-triangle) |
