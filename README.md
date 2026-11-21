@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshitha-MSD7/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0264-ugly-number-ii](https://github.com/Harshitha-MSD7/DSA/tree/master/0264-ugly-number-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harshitha-MSD7/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Harshitha-MSD7/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0690-employee-importance](https://github.com/Harshitha-MSD7/DSA/tree/master/0690-employee-importance) |
@@ -134,6 +135,7 @@
 | [0070-climbing-stairs](https://github.com/Harshitha-MSD7/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Harshitha-MSD7/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Harshitha-MSD7/DSA/tree/master/0120-triangle) |
+| [0264-ugly-number-ii](https://github.com/Harshitha-MSD7/DSA/tree/master/0264-ugly-number-ii) |
 | [0526-beautiful-arrangement](https://github.com/Harshitha-MSD7/DSA/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Harshitha-MSD7/DSA/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Harshitha-MSD7/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -146,6 +148,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Harshitha-MSD7/DSA/tree/master/0264-ugly-number-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Harshitha-MSD7/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-swim-in-rising-water](https://github.com/Harshitha-MSD7/DSA/tree/master/0778-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/Harshitha-MSD7/DSA/tree/master/1046-last-stone-weight) |
@@ -256,6 +259,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Harshitha-MSD7/DSA/tree/master/0070-climbing-stairs) |
+| [0264-ugly-number-ii](https://github.com/Harshitha-MSD7/DSA/tree/master/0264-ugly-number-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harshitha-MSD7/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/Harshitha-MSD7/DSA/tree/master/0412-fizz-buzz) |
 ## Randomized
