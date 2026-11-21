@@ -41,6 +41,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Harshitha-MSD7/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Harshitha-MSD7/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0690-employee-importance](https://github.com/Harshitha-MSD7/DSA/tree/master/0690-employee-importance) |
+| [0692-top-k-frequent-words](https://github.com/Harshitha-MSD7/DSA/tree/master/0692-top-k-frequent-words) |
 | [3484-design-spreadsheet](https://github.com/Harshitha-MSD7/DSA/tree/master/3484-design-spreadsheet) |
 ## String
 |  |
@@ -50,6 +51,7 @@
 | [0399-evaluate-division](https://github.com/Harshitha-MSD7/DSA/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/Harshitha-MSD7/DSA/tree/master/0412-fizz-buzz) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Harshitha-MSD7/DSA/tree/master/0535-encode-and-decode-tinyurl) |
+| [0692-top-k-frequent-words](https://github.com/Harshitha-MSD7/DSA/tree/master/0692-top-k-frequent-words) |
 | [1446-consecutive-characters](https://github.com/Harshitha-MSD7/DSA/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshitha-MSD7/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Harshitha-MSD7/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
@@ -82,6 +84,7 @@
 | [0542-01-matrix](https://github.com/Harshitha-MSD7/DSA/tree/master/0542-01-matrix) |
 | [0636-exclusive-time-of-functions](https://github.com/Harshitha-MSD7/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0690-employee-importance](https://github.com/Harshitha-MSD7/DSA/tree/master/0690-employee-importance) |
+| [0692-top-k-frequent-words](https://github.com/Harshitha-MSD7/DSA/tree/master/0692-top-k-frequent-words) |
 | [0746-min-cost-climbing-stairs](https://github.com/Harshitha-MSD7/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Harshitha-MSD7/DSA/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Harshitha-MSD7/DSA/tree/master/0994-rotting-oranges) |
@@ -149,6 +152,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Harshitha-MSD7/DSA/tree/master/0264-ugly-number-ii) |
+| [0692-top-k-frequent-words](https://github.com/Harshitha-MSD7/DSA/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Harshitha-MSD7/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-swim-in-rising-water](https://github.com/Harshitha-MSD7/DSA/tree/master/0778-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/Harshitha-MSD7/DSA/tree/master/1046-last-stone-weight) |
@@ -270,6 +274,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Harshitha-MSD7/DSA/tree/master/0056-merge-intervals) |
+| [0692-top-k-frequent-words](https://github.com/Harshitha-MSD7/DSA/tree/master/0692-top-k-frequent-words) |
 ## Quicksort
 |  |
 | ------- |
@@ -328,4 +333,16 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Harshitha-MSD7/DSA/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Harshitha-MSD7/DSA/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Harshitha-MSD7/DSA/tree/master/0692-top-k-frequent-words) |
+## Counting
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Harshitha-MSD7/DSA/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
