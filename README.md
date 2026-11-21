@@ -78,6 +78,7 @@
 | [0118-pascals-triangle](https://github.com/Harshitha-MSD7/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Harshitha-MSD7/DSA/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshitha-MSD7/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0322-coin-change](https://github.com/Harshitha-MSD7/DSA/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harshitha-MSD7/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Harshitha-MSD7/DSA/tree/master/0399-evaluate-division) |
 | [0526-beautiful-arrangement](https://github.com/Harshitha-MSD7/DSA/tree/master/0526-beautiful-arrangement) |
@@ -102,6 +103,7 @@
 | [0112-path-sum](https://github.com/Harshitha-MSD7/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Harshitha-MSD7/DSA/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Harshitha-MSD7/DSA/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/Harshitha-MSD7/DSA/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Harshitha-MSD7/DSA/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/Harshitha-MSD7/DSA/tree/master/0542-01-matrix) |
 | [0690-employee-importance](https://github.com/Harshitha-MSD7/DSA/tree/master/0690-employee-importance) |
@@ -139,6 +141,7 @@
 | [0118-pascals-triangle](https://github.com/Harshitha-MSD7/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Harshitha-MSD7/DSA/tree/master/0120-triangle) |
 | [0264-ugly-number-ii](https://github.com/Harshitha-MSD7/DSA/tree/master/0264-ugly-number-ii) |
+| [0322-coin-change](https://github.com/Harshitha-MSD7/DSA/tree/master/0322-coin-change) |
 | [0526-beautiful-arrangement](https://github.com/Harshitha-MSD7/DSA/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Harshitha-MSD7/DSA/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Harshitha-MSD7/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -345,4 +348,12 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Harshitha-MSD7/DSA/tree/master/0692-top-k-frequent-words) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Harshitha-MSD7/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Harshitha-MSD7/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
