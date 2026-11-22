@@ -48,6 +48,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshitha-MSD7/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0071-simplify-path](https://github.com/Harshitha-MSD7/DSA/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Harshitha-MSD7/DSA/tree/master/0072-edit-distance) |
 | [0399-evaluate-division](https://github.com/Harshitha-MSD7/DSA/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/Harshitha-MSD7/DSA/tree/master/0412-fizz-buzz) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Harshitha-MSD7/DSA/tree/master/0535-encode-and-decode-tinyurl) |
@@ -140,6 +141,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Harshitha-MSD7/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Harshitha-MSD7/DSA/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Harshitha-MSD7/DSA/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Harshitha-MSD7/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Harshitha-MSD7/DSA/tree/master/0120-triangle) |
 | [0264-ugly-number-ii](https://github.com/Harshitha-MSD7/DSA/tree/master/0264-ugly-number-ii) |
