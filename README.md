@@ -89,6 +89,7 @@
 | [0692-top-k-frequent-words](https://github.com/Harshitha-MSD7/DSA/tree/master/0692-top-k-frequent-words) |
 | [0746-min-cost-climbing-stairs](https://github.com/Harshitha-MSD7/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Harshitha-MSD7/DSA/tree/master/0778-swim-in-rising-water) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Harshitha-MSD7/DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0994-rotting-oranges](https://github.com/Harshitha-MSD7/DSA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Harshitha-MSD7/DSA/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/Harshitha-MSD7/DSA/tree/master/1254-number-of-closed-islands) |
@@ -160,6 +161,7 @@
 | [0692-top-k-frequent-words](https://github.com/Harshitha-MSD7/DSA/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Harshitha-MSD7/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-swim-in-rising-water](https://github.com/Harshitha-MSD7/DSA/tree/master/0778-swim-in-rising-water) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Harshitha-MSD7/DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1046-last-stone-weight](https://github.com/Harshitha-MSD7/DSA/tree/master/1046-last-stone-weight) |
 ## Linked List
 |  |
@@ -280,6 +282,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Harshitha-MSD7/DSA/tree/master/0056-merge-intervals) |
 | [0692-top-k-frequent-words](https://github.com/Harshitha-MSD7/DSA/tree/master/0692-top-k-frequent-words) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Harshitha-MSD7/DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Quicksort
 |  |
 | ------- |
@@ -309,6 +312,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Harshitha-MSD7/DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshitha-MSD7/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Binary Lifting
 |  |
