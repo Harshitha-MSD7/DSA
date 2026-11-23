@@ -45,7 +45,7 @@ class Solution {
         return min;
     }
 }
-*/
+
 class Solution {
     // Memoization
     public int minDistance(String word1, String word2) {
@@ -94,5 +94,47 @@ class Solution {
         }
 
         return memo[i][j];
+    }
+}
+*/
+class Solution {
+    // Tabulation - Bottom Up
+    public int minDistance(String word1, String word2) {
+        int m = word1.length(), n = word2.length();
+        int[][] dp = new int[m+1][n+1];
+        // rows - word1 characters
+        // cols - word2 characters
+        // dp[i][j] -> the minimum operations to convert word1 from i to the end into word2 from j to the end.
+
+        // last row: word1 is done -> insert the rest of word2
+        for (int j = 0; j <= n; j++) {
+            dp[m][j] = n - j; 
+        }
+
+        // last column: word2 is done -> delete the rest of word1
+        for (int i = 0; i <= m; i++) {
+            dp[i][n] = m - i;
+        }
+
+        // TODO: fill the rest of the table
+        // 1. which direction do i and j need to run?
+        // 2. chars equal -> dp[j][i] = ?
+        // 3. chars unequal -> dp[j][i] = ?
+
+        for(int i = m-1; i>=0; i--){
+            for(int j = n-1; j>=0; j--){
+                // if chars are equal
+                if(word1.charAt(i) == word2.charAt(j)){
+                    dp[i][j] = dp[i+1][j+1];
+                }
+                // if chars unequal
+                else{
+                    // 3 choices 
+                    dp[i][j] = 1 + Math.min(dp[i+1][j+1], Math.min(dp[i][j+1], dp[i+1][j]));
+                }
+            }
+        }
+
+        return dp[0][0];
     }
 }
