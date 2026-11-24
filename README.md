@@ -46,6 +46,7 @@
 | [0118-pascals-triangle](https://github.com/Harshitha-MSD7/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Harshitha-MSD7/DSA/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshitha-MSD7/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/Harshitha-MSD7/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Harshitha-MSD7/DSA/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harshitha-MSD7/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Harshitha-MSD7/DSA/tree/master/0399-evaluate-division) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Harshitha-MSD7/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshitha-MSD7/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/Harshitha-MSD7/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/Harshitha-MSD7/DSA/tree/master/0778-swim-in-rising-water) |
 ## Dynamic Programming
 |  |
@@ -112,6 +114,7 @@
 | [0118-pascals-triangle](https://github.com/Harshitha-MSD7/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Harshitha-MSD7/DSA/tree/master/0120-triangle) |
 | [0264-ugly-number-ii](https://github.com/Harshitha-MSD7/DSA/tree/master/0264-ugly-number-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Harshitha-MSD7/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Harshitha-MSD7/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Harshitha-MSD7/DSA/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Harshitha-MSD7/DSA/tree/master/0526-beautiful-arrangement) |
@@ -333,4 +336,8 @@
 | ------- |
 | [0322-coin-change](https://github.com/Harshitha-MSD7/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Harshitha-MSD7/DSA/tree/master/0518-coin-change-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Harshitha-MSD7/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
