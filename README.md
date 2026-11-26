@@ -228,6 +228,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Harshitha-MSD7/DSA/tree/master/0412-fizz-buzz) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harshitha-MSD7/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3360-stone-removal-game](https://github.com/Harshitha-MSD7/DSA/tree/master/3360-stone-removal-game) |
 ## Topological Sort
 |  |
 | ------- |
@@ -245,6 +246,7 @@
 | [0264-ugly-number-ii](https://github.com/Harshitha-MSD7/DSA/tree/master/0264-ugly-number-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harshitha-MSD7/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/Harshitha-MSD7/DSA/tree/master/0412-fizz-buzz) |
+| [3360-stone-removal-game](https://github.com/Harshitha-MSD7/DSA/tree/master/3360-stone-removal-game) |
 ## Randomized
 |  |
 | ------- |
