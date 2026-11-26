@@ -19,6 +19,7 @@
 | [0399-evaluate-division](https://github.com/Harshitha-MSD7/DSA/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/Harshitha-MSD7/DSA/tree/master/0412-fizz-buzz) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Harshitha-MSD7/DSA/tree/master/0535-encode-and-decode-tinyurl) |
+| [0647-palindromic-substrings](https://github.com/Harshitha-MSD7/DSA/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Harshitha-MSD7/DSA/tree/master/0692-top-k-frequent-words) |
 | [1446-consecutive-characters](https://github.com/Harshitha-MSD7/DSA/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshitha-MSD7/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshitha-MSD7/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0647-palindromic-substrings](https://github.com/Harshitha-MSD7/DSA/tree/master/0647-palindromic-substrings) |
 | [1861-rotating-the-box](https://github.com/Harshitha-MSD7/DSA/tree/master/1861-rotating-the-box) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshitha-MSD7/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Binary Search
@@ -119,6 +121,7 @@
 | [0518-coin-change-ii](https://github.com/Harshitha-MSD7/DSA/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Harshitha-MSD7/DSA/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Harshitha-MSD7/DSA/tree/master/0542-01-matrix) |
+| [0647-palindromic-substrings](https://github.com/Harshitha-MSD7/DSA/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Harshitha-MSD7/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [2050-parallel-courses-iii](https://github.com/Harshitha-MSD7/DSA/tree/master/2050-parallel-courses-iii) |
 ## Sliding Window
